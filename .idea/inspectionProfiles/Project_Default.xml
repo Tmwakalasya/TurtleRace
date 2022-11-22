@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.end_of_game" />
+          <option value="main.guess" />
+          <option value="main.key" />
+          <option value="main.process_coins" />
+          <option value="main.resources_sufficient" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

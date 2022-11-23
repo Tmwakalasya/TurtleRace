@@ -21,7 +21,7 @@ for turtle_index in range(0,6):
     all_turtles.append(new_turtles)
 
 if user_bet:
-    #if user has put a bet the is_game_on booolean becomes true
+    #if user has put a bet the is_game_on boolean becomes true
     is_game_on = True
 while is_game_on:
     for turtle in all_turtles:
